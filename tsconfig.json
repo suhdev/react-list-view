@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "jsx": "react",
+        "rootDir": "./src",
+        "module": "es6",
+        "target": "es6",
+        "outDir": "./es6"
+    },
+    "exclude": [
+        "node_modules",
+        "jspm_packages"
+    ]
+}
